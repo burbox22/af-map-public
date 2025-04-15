@@ -1,7 +1,8 @@
 # Agroforestry Map Explorer 🌿
 
 This repository hosts an interactive map visualizing agroforestry studies and systems across different countries 
-Source - Cardinael, Rémi, et al. "Revisiting IPCC Tier 1 coefficients for soil organic and biomass carbon storage in agroforestry systems." Environmental Research Letters 13.12 (2018): 124020.
+
+** Source - Cardinael, Rémi, et al. "Revisiting IPCC Tier 1 coefficients for soil organic and biomass carbon storage in agroforestry systems." Environmental Research Letters 13.12 (2018): 124020.
 
 🔗 **Live Map**  
 Access the map here:  
